@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-sliding-puzzle/static/css/main.a1c8720a.chunk.css",
+    "main.js": "/react-sliding-puzzle/static/js/main.27c318a0.chunk.js",
+    "main.js.map": "/react-sliding-puzzle/static/js/main.27c318a0.chunk.js.map",
+    "runtime-main.js": "/react-sliding-puzzle/static/js/runtime-main.a71b23c6.js",
+    "runtime-main.js.map": "/react-sliding-puzzle/static/js/runtime-main.a71b23c6.js.map",
+    "static/js/2.740e623c.chunk.js": "/react-sliding-puzzle/static/js/2.740e623c.chunk.js",
+    "static/js/2.740e623c.chunk.js.map": "/react-sliding-puzzle/static/js/2.740e623c.chunk.js.map",
+    "index.html": "/react-sliding-puzzle/index.html",
+    "precache-manifest.942a049121eb2028b5ead852931d3a46.js": "/react-sliding-puzzle/precache-manifest.942a049121eb2028b5ead852931d3a46.js",
+    "service-worker.js": "/react-sliding-puzzle/service-worker.js",
+    "static/css/main.a1c8720a.chunk.css.map": "/react-sliding-puzzle/static/css/main.a1c8720a.chunk.css.map",
+    "static/js/2.740e623c.chunk.js.LICENSE.txt": "/react-sliding-puzzle/static/js/2.740e623c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a71b23c6.js",
+    "static/js/2.740e623c.chunk.js",
+    "static/css/main.a1c8720a.chunk.css",
+    "static/js/main.27c318a0.chunk.js"
+  ]
+}
